@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4391F9EE-E033-4066-85CD-92984C649A84</string>
+	<key>IDESourceControlProjectName</key>
+	<string>travis_ci_demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F8BA1CF911CFDFBCD5F641E3E0969DAB8DEA1BF2</key>
+		<string>github.com:gauravthummar/travis_ci_demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>travis_ci_demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F8BA1CF911CFDFBCD5F641E3E0969DAB8DEA1BF2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:gauravthummar/travis_ci_demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F8BA1CF911CFDFBCD5F641E3E0969DAB8DEA1BF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F8BA1CF911CFDFBCD5F641E3E0969DAB8DEA1BF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>travis_ci_demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

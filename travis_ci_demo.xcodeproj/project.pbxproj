@@ -15,6 +15,8 @@
 		BC19D92F1A24B346003C8EAB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC19D92E1A24B346003C8EAB /* Images.xcassets */; };
 		BC19D9321A24B346003C8EAB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC19D9301A24B346003C8EAB /* LaunchScreen.xib */; };
 		BC19D93E1A24B346003C8EAB /* travis_ci_demoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC19D93D1A24B346003C8EAB /* travis_ci_demoTests.m */; };
+		BC6CCF2E1A24CA1600F5EC2B /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = BC6CCF2C1A24CA1600F5EC2B /* .travis.yml */; };
+		BC6CCF2F1A24CA1600F5EC2B /* TemplateIcon2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC6CCF2D1A24CA1600F5EC2B /* TemplateIcon2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +45,8 @@
 		BC19D9371A24B346003C8EAB /* travis_ci_demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = travis_ci_demoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC19D93C1A24B346003C8EAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC19D93D1A24B346003C8EAB /* travis_ci_demoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = travis_ci_demoTests.m; sourceTree = "<group>"; };
+		BC6CCF2C1A24CA1600F5EC2B /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
+		BC6CCF2D1A24CA1600F5EC2B /* TemplateIcon2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TemplateIcon2x.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 		BC19D9121A24B346003C8EAB = {
 			isa = PBXGroup;
 			children = (
+				BC6CCF2C1A24CA1600F5EC2B /* .travis.yml */,
+				BC6CCF2D1A24CA1600F5EC2B /* TemplateIcon2x.png */,
 				BC19D91D1A24B346003C8EAB /* travis_ci_demo */,
 				BC19D93A1A24B346003C8EAB /* travis_ci_demoTests */,
 				BC19D91C1A24B346003C8EAB /* Products */,
@@ -204,8 +210,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC6CCF2F1A24CA1600F5EC2B /* TemplateIcon2x.png in Resources */,
 				BC19D92D1A24B346003C8EAB /* Main.storyboard in Resources */,
 				BC19D9321A24B346003C8EAB /* LaunchScreen.xib in Resources */,
+				BC6CCF2E1A24CA1600F5EC2B /* .travis.yml in Resources */,
 				BC19D92F1A24B346003C8EAB /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -418,6 +426,7 @@
 				BC19D9431A24B346003C8EAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BC19D9441A24B346003C8EAB /* Build configuration list for PBXNativeTarget "travis_ci_demoTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +435,7 @@
 				BC19D9461A24B346003C8EAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
